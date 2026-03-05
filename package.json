@@ -1,0 +1,19 @@
+{
+  "name": "ajs-unit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladyChiffa/ajs-unit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladyChiffa/ajs-unit/issues"
+  },
+  "homepage": "https://github.com/ladyChiffa/ajs-unit#readme"
+}
