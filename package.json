@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lint": "eslint ./"
+    "lint": "eslint ./",
+    "lintfix": "eslint . --fix",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,7 @@
     "@babel/preset-env": "^7.29.0",
     "@eslint/js": "^10.0.1",
     "eslint": "^10.0.2",
+    "eslint-plugin-jest": "^29.15.0",
     "globals": "^17.4.0",
     "jest": "^30.2.0"
   },
